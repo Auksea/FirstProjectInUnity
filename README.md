@@ -1,2 +1,2 @@
 # FirstProjectInUnity
-Simple game using Unity using Creator kit
+Simple game in Unity using Creator kit
